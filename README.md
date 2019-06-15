@@ -1,7 +1,7 @@
 # Client
-Go to client folder cd client/
-Install dependancy npm i
-Run application ng serve and open your browser on http://localhost:4200
+- Go to client folder cd client/
+- Install dependancy npm i
+- Run application ng serve and open your browser on http://localhost:4200
 
 
 # TodoList
