@@ -1,3 +1,9 @@
+# Client
+Go to client folder cd client/
+Install dependancy npm i
+Run application ng serve and open your browser on http://localhost:4200
+
+
 # TodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
